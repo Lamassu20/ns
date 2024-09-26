@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.scroll-content {
+    height: 2000px; /* Делаем контент длинным для прокрутки */
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+}
